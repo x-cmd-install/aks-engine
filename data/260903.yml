@@ -1,11 +1,13 @@
 about:
-  description: AKS Engine: legacy tool for Kubernetes on Azure (see status)
+  description:
+  |
+    AKS Engine: legacy tool for Kubernetes on Azure (see status)
   license: MIT
   homepage: https://github.com/Azure/aks-engine
   head: f634f52
   archived: true
   latestVersion: v0.79.0
-  collectedAt: 2026-09-03T05:14:42Z
+  collectedAt: 2026-09-03T22:34:57Z
 timeline:
   created: 2018-10-30
   lastCommit: 2023-10-24
@@ -27,7 +29,7 @@ language:
   C#: 1678
   Dockerfile: 1044
   Batchfile: 122
-totalLine: 5801445
+totalBytes: 5801445
 recent:
   last30d:
     since: 2026-08-04

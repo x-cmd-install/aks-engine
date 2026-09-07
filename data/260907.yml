@@ -5,7 +5,7 @@ about:
   head: f634f52
   archived: true
   latestVersion: "v0.79.0"
-  collectedAt: 2026-09-07T04:23:38Z
+  collectedAt: 2026-09-07T19:59:08Z
 timeline:
   created: 2018-10-30
   lastCommit: 2023-10-24
@@ -86,7 +86,7 @@ total:
   commit: 5523
 ---
 path: /home/runner/.x-repo/github.com/Azure/aks-engine
-collectedAt: 2026-09-07T04:24:02Z
+collectedAt: 2026-09-07T19:59:38Z
 loc:
   Go:
     code: 1334577
@@ -341,7 +341,7 @@ checks:
       - 'Info:   1 out of   2 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:24:10+00:00
+  collectedAt: 2026-09-07T19:59:40+00:00
   platform:
     darwin/arm64:
       name:  null

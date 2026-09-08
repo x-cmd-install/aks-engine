@@ -5,7 +5,7 @@ about:
   head: f634f52
   archived: true
   latestVersion: "v0.79.0"
-  collectedAt: 2026-09-08T01:46:23Z
+  collectedAt: 2026-09-08T04:22:24Z
 timeline:
   created: 2018-10-30
   lastCommit: 2023-10-24
@@ -15,7 +15,7 @@ popularity:
   watcher: 22
   fork: 508
   release: 142
-  contributor: 3064
+  contributor: 3062
   pullRequest: 3556
   issue: 1561
 language:
@@ -86,7 +86,7 @@ total:
   commit: 5523
 ---
 path: /home/runner/.x-repo/github.com/Azure/aks-engine
-collectedAt: 2026-09-08T01:46:41Z
+collectedAt: 2026-09-08T04:22:40Z
 loc:
   Go:
     code: 1334577

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.79.0"
   latestRelease: "v0.79.0"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-09T04:27:19Z
+  collectedAt: 2026-09-09T18:33:51Z
 timeline:
   created: 2018-10-30
   lastCommit: 2023-10-24
@@ -90,7 +90,7 @@ total:
   commit: 5523
 ---
 path: /home/runner/.x-repo/github.com/Azure/aks-engine
-collectedAt: 2026-09-09T04:27:34Z
+collectedAt: 2026-09-09T18:34:09Z
 loc:
   Go:
     code: 1334577

@@ -1,0 +1,16 @@
+- repo: scoop
+  subrepo: main
+  binname: aks-engine
+  visiblename: aks-engine
+  version: 0.79.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: aks-engine
+  visiblename: aks-engine
+  version: 0.71.0
+  origversion: null
+  status: outdated
+  summary: Azure Kubernetes Engine - a place for community to collaborate and build the best open Kubernetes infrastructure for Azure.

@@ -6,7 +6,7 @@
 
 AKS Engine: legacy tool for Kubernetes on Azure (see status)
 
-![aks-engine](https://repo.x-cmd.io/aks-engine.svg)
+![aks-engine](https://repo.x-cmd.io/aks-engine.svg?lang=zh)
 
 ## 安装
 
@@ -25,7 +25,17 @@ x install aks-engine
 - **最新版本**: `v0.79.0` (2023-08-31)
 - **最近提交**: 2023-10-24
 - **Release 含资产**: 6 个
-- **发布时间**: 2023-08-31T18:03:41Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aks-engine-v0.79.0-darwin-amd64.tar.gz](https://github.com/Azure/aks-engine/releases/download/v0.79.0/aks-engine-v0.79.0-darwin-amd64.tar.gz) | 24.5 MiB | `native/darwin/x64` |
+| [aks-engine-v0.79.0-darwin-amd64.zip](https://github.com/Azure/aks-engine/releases/download/v0.79.0/aks-engine-v0.79.0-darwin-amd64.zip) | 24.5 MiB | `native/darwin/x64` |
+| [aks-engine-v0.79.0-linux-amd64.tar.gz](https://github.com/Azure/aks-engine/releases/download/v0.79.0/aks-engine-v0.79.0-linux-amd64.tar.gz) | 12.5 MiB | `native/linux/x64` |
+| [aks-engine-v0.79.0-linux-amd64.zip](https://github.com/Azure/aks-engine/releases/download/v0.79.0/aks-engine-v0.79.0-linux-amd64.zip) | 12.5 MiB | `native/linux/x64` |
+| [aks-engine-v0.79.0-windows-amd64.tar.gz](https://github.com/Azure/aks-engine/releases/download/v0.79.0/aks-engine-v0.79.0-windows-amd64.tar.gz) | 12.6 MiB | `native/win/x64` |
+| [aks-engine-v0.79.0-windows-amd64.zip](https://github.com/Azure/aks-engine/releases/download/v0.79.0/aks-engine-v0.79.0-windows-amd64.zip) | 12.6 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -74,4 +84,4 @@ aks-engine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:26:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:05:47Z._
